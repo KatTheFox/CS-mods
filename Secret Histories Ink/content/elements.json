@@ -1,0 +1,15 @@
+{
+  "elements": [
+    {
+      "id": "kat.ingredientsecrethistoriesb",
+      "label": "Porphyrine?",
+      "description": "This strange liquid has many of the properties commonly attributed to Porphyrine, but its potency seems limited. Perhaps it is diluted, perhaps it diminished over time.",
+      "aspects": {
+        "secrethistories": 4,
+        "auctionable": 2,
+        "ingredient": 1,
+        "pigment": 1
+      }
+    }
+  ]
+}

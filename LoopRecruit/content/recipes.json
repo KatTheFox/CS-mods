@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    { "id": "alldone", "requirements": { "mistakenidentity": 1 }, "warmup": 0 },
+    { "id": "voluntarystop", "requirements": { "health": 1 }, "warmup": 0 },
+    {
+      "id": "recruit_loop_expel",
+      "warmup": 1,
+      "label": "The Fruits of my Search",
+      "description": "The results so far...",
+      "actionid": "talkresults",
+      "icon": "talkresults",
+      "aspects": {
+        "fatiguing": 1
+      }
+    },
+    {
+      "id": "loopcheck",
+      "startdescription": "I've found someone interesting.",
+      "description": "I've found someone interesting.",
+      "warmup": 5,
+      "requirements": { "lore": 2 },
+      "slots": [
+        {
+          "id": "healthslot",
+          "label": "Stop?",
+          "description": "Perhaps, for my own safety, I should pause my recruiting efforts.",
+          "required": { "health": 1 }
+        }
+      ],
+      "inductions": [
+        {
+          "id": "recruit_loop_expel",
+          "chance": 100,
+          "additional": true,
+          "expulsion": {
+            "limit": 99,
+            "filter": {
+              "reason": 1,
+              "passion": 1,
+              "patron": 1,
+              "reputation": 1,
+              "rumour": 1,
+              "acquaintance": 1
+            }
+          }
+        }
+      ],
+      "alt": [{ "id": "alldone" }],
+      "linked": [{ "id": "voluntarystop" }, { "id": "speakpublicly" }]
+    },
+    { "id": "talkmeetpatron", "linked$prepend": { "id": "loopcheck" } },
+    { "id": "talkmeetacquaintance", "linked$prepend": { "id": "loopcheck" } }
+  ]
+}

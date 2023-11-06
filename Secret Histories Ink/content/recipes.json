@@ -1,0 +1,57 @@
+{
+  "recipes": [
+    {
+      "id": "painthaspigment",
+      "linked$prepend": [{ "id": "kat.matchsecrethistories", "chance": 100 }]
+    },
+    {
+      "id": "kat.matchsecrethistories",
+      "requirements": {
+        "kat.ingredientsecrethistoriesb": 1,
+        "secrethistories": 5
+      },
+      "actionid": "work",
+      "label": "A Worthy Medium",
+      "startdescription": "This ink will reflect different images from different angles. None of them are the one I painted.",
+      "effects": {
+        "insight": 2
+      },
+      "warmup": 5,
+      "linked": [
+        {
+          "id": "paintmastersecrethistories_unique",
+          "chance": 100
+        },
+        {
+          "id": "paintresults",
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "paintmastersecrethistories_unique",
+      "requirements": {
+        "insight": 7,
+        "secrethistories": 9
+      },
+      "maxexecutions": 1,
+      "effects": {
+        "paintingmastersecrethistories": 1
+      },
+      "actionid": "work",
+      "linked": [
+        {
+          "id": "paintresults",
+          "chance": 100
+        }
+      ]
+    },
+    {
+      "id": "explorevaultshires5_success",
+      "internaldeck$dictedit": {
+        "spec$append": ["kat.ingredientsecrethistoriesb"],
+        "draws": 6
+      }
+    }
+  ]
+}

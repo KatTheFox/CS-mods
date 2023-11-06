@@ -1,0 +1,13 @@
+{
+  "decks": [
+    {
+      "id": "vaultrewardsb",
+      "spec$append": "kat.ingredientsecrethistoriesb"
+    },
+    {
+      "id": "auctionedcommontomes",
+      "$depends": ["2473618732"],
+      "spec$append": ["kat.ingredientsecrethistoriesb"]
+    }
+  ]
+}

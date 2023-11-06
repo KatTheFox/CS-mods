@@ -1,0 +1,654 @@
+{
+  "elements": [
+    {
+      "id": "fragmentknock",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknockb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknockc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknockd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknocke",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknockf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentknockg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistories",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriesb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriesc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriesd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriese",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriesf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentsecrethistoriesg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlantern",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanternb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanternc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanternd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanterne",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanternf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentlanterng",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforge",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforgeb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforgec",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforged",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforgee",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforgef",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentforgeg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedge",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedgeb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedgec",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedged",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedgee",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedgef",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentedgeg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmoth",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothe",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentmothg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinter",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinterb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinterc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinterd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwintere",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinterf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentwinterg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheart",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheartb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheartc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheartd",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmenthearte",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheartf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentheartg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgrail",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgrailb",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgrailc",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgraild",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgraile",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgrailf",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "fragmentgrailg",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "prealzabo",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    },
+    {
+      "id": "alzabo",
+      "slots$append": {
+        "id": "loop",
+        "label": "More?",
+        "description": "Add another lore fragment here to draw out all people of interest you can find.",
+        "required": { "lore": 1 },
+        "actionid": "talk"
+      }
+    }
+  ]
+}
