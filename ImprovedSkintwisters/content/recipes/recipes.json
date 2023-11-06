@@ -1,0 +1,40 @@
+{
+  "recipes": [
+    {
+      "id": "evidencedestroyhighmoth",
+      "label": "Send a Slippery Minion to destroy Evidence",
+      "actionid": "talk",
+      "startdescription": "My Skintwister can sneak through just about anywhere undetected. My scheme will almost certainly succeed.",
+      "description": ".",
+      "requirements": {
+        "follower": 1,
+        "moth": 10,
+        "evidencelevel": 1
+      },
+      "linked": [
+        {
+          "id": "evidencedestroysuccess",
+          "chance": 90
+        },
+        {
+          "id": "evidencedestroyfailure_mortalfollower",
+          "chance": 100
+        },
+        {
+          "id": "evidencedestroyfailure",
+          "chance": 100
+        }
+      ],
+      "comments": "We want a better than mid chance at success, because what would be the point of an exalted follower otherwise?"
+    },
+    {
+      "id": "talktofollower",
+      "alt$prepend": [
+        {
+          "id": "evidencedestroyhighmoth",
+          "chance": 100
+        }
+      ]
+    }
+  ]
+}
