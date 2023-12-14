@@ -12,7 +12,7 @@ This repository contains:
 
 My other Cultist Simulator mods stored elsewhere:
 - [Hawthorn](https://github.com/KatTheFox/hawthorn/) ([also on steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2857401350)): An attempt at a comprehensive Shelves mod, adds shelves for many popular mods as well as my take on shelves for the base game.
-- [A Tewwibwe Cuwse](https://github.com/KatTheFox/tewwiblecuwse) ([also on steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2990679375)): AKA the uwu mod evewyone hates. Uwuifies aww text in the game, incwuding mods. Requires GHIRBI and The Roost Machine (see below).
+- [A Tewwibwe Cuwse](https://github.com/KatTheFox/tewwibwecuwse) ([also on steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2990679375)): AKA the uwu mod evewyone hates. Uwuifies aww text in the game, incwuding mods. Requires GHIRBI and The Roost Machine (see below).
 - [The Wheel](https://github.com/KatTheFox/The-Wheel) ([also on steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2913462842)): The most up-to-date time control mod available. Change the game speed between x0.2 and x34, customizable keybinds to skip forward through time until the next event completion, and more. Requires GHIRBI (see below).
 
 
