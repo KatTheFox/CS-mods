@@ -33,3 +33,8 @@ However, as of now, Cultist Simulator has entered LTS, and no more updates (besi
 
 ## Help, I have an issue with one of your mods, how can I contact you?
 You can open an issue on one of my GitHub repositories, leave a comment on the Steam page, or ask for me in the (unofficial) [Cultist Simulator Discord server](https://discord.gg/KxyFTZkUbQ).
+
+## Sixth History
+All these mods are unofficial content based on Cultist Simulator and Book of Hours by Weather Factory Ltd. You can find out more and support Cultist Simulator and Book of Hours at [www.weatherfactory.biz](https://www.weatherfactory.biz).
+
+<img src="https://weatherfactory.biz/wp-content/uploads/2022/11/sixth-history-logo-text-black.png" width="120" /> 
